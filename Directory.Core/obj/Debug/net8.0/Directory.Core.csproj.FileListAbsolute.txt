@@ -1,0 +1,15 @@
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\bin\Debug\net8.0\Directory.Core.deps.json
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\bin\Debug\net8.0\Directory.Core.dll
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\bin\Debug\net8.0\Directory.Core.pdb
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\bin\Debug\net8.0\Directory.Dto.dll
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\bin\Debug\net8.0\Directory.Dto.pdb
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\Directory.Core.csproj.AssemblyReference.cache
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\Directory.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\Directory.Core.AssemblyInfoInputs.cache
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\Directory.Core.AssemblyInfo.cs
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\Directory.Core.csproj.CoreCompileInputs.cache
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\Director.F5E7E929.Up2Date
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\Directory.Core.dll
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\refint\Directory.Core.dll
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\Directory.Core.pdb
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Core\obj\Debug\net8.0\ref\Directory.Core.dll

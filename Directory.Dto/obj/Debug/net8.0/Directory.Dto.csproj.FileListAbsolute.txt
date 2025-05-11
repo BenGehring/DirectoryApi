@@ -1,0 +1,11 @@
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\bin\Debug\net8.0\Directory.Dto.deps.json
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\bin\Debug\net8.0\Directory.Dto.dll
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\bin\Debug\net8.0\Directory.Dto.pdb
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\obj\Debug\net8.0\Directory.Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\obj\Debug\net8.0\Directory.Dto.AssemblyInfoInputs.cache
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\obj\Debug\net8.0\Directory.Dto.AssemblyInfo.cs
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\obj\Debug\net8.0\Directory.Dto.csproj.CoreCompileInputs.cache
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\obj\Debug\net8.0\Directory.Dto.dll
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\obj\Debug\net8.0\refint\Directory.Dto.dll
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\obj\Debug\net8.0\Directory.Dto.pdb
+E:\Dropbox\source\repos\GitHubDemos\Directory\Directory.Dto\obj\Debug\net8.0\ref\Directory.Dto.dll
