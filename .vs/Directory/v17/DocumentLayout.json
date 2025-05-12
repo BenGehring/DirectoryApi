@@ -7,34 +7,6 @@
       "RelativeMoniker": "D:0:0:{178CBBAA-21CD-4AED-B9EC-2D04A48CEAA5}|Directory.Api\\Directory.Api.csproj|solutionrelative:directory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C42CBA7-E5D8-49D1-96F3-24389DAF36DA}|Directory.Dto\\Directory.Dto.csproj|e:\\dropbox\\source\\repos\\githubdemos\\directory\\directory.dto\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C42CBA7-E5D8-49D1-96F3-24389DAF36DA}|Directory.Dto\\Directory.Dto.csproj|solutionrelative:directory.dto\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDE1E9AA-FC13-4F80-80B6-DF94984DF8B6}|Directory.Data\\Directory.Data.csproj|e:\\dropbox\\source\\repos\\githubdemos\\directory\\directory.data\\listingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDE1E9AA-FC13-4F80-80B6-DF94984DF8B6}|Directory.Data\\Directory.Data.csproj|solutionrelative:directory.data\\listingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDE1E9AA-FC13-4F80-80B6-DF94984DF8B6}|Directory.Data\\Directory.Data.csproj|e:\\dropbox\\source\\repos\\githubdemos\\directory\\directory.data\\listingscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDE1E9AA-FC13-4F80-80B6-DF94984DF8B6}|Directory.Data\\Directory.Data.csproj|solutionrelative:directory.data\\listingscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDE1E9AA-FC13-4F80-80B6-DF94984DF8B6}|Directory.Data\\Directory.Data.csproj|e:\\dropbox\\source\\repos\\githubdemos\\directory\\directory.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDE1E9AA-FC13-4F80-80B6-DF94984DF8B6}|Directory.Data\\Directory.Data.csproj|solutionrelative:directory.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F191DF1-3313-4EDA-A0D6-4FFF98E189CB}|Directory.Core\\Directory.Core.csproj|e:\\dropbox\\source\\repos\\githubdemos\\directory\\directory.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F191DF1-3313-4EDA-A0D6-4FFF98E189CB}|Directory.Core\\Directory.Core.csproj|solutionrelative:directory.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F191DF1-3313-4EDA-A0D6-4FFF98E189CB}|Directory.Core\\Directory.Core.csproj|e:\\dropbox\\source\\repos\\githubdemos\\directory\\directory.core\\generics\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F191DF1-3313-4EDA-A0D6-4FFF98E189CB}|Directory.Core\\Directory.Core.csproj|solutionrelative:directory.core\\generics\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F191DF1-3313-4EDA-A0D6-4FFF98E189CB}|Directory.Core\\Directory.Core.csproj|e:\\dropbox\\source\\repos\\githubdemos\\directory\\directory.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F191DF1-3313-4EDA-A0D6-4FFF98E189CB}|Directory.Core\\Directory.Core.csproj|solutionrelative:directory.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{178CBBAA-21CD-4AED-B9EC-2D04A48CEAA5}|Directory.Api\\Directory.Api.csproj|e:\\dropbox\\source\\repos\\githubdemos\\directory\\directory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{178CBBAA-21CD-4AED-B9EC-2D04A48CEAA5}|Directory.Api\\Directory.Api.csproj|solutionrelative:directory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -46,99 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Listing.cs",
-              "DocumentMoniker": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Dto\\Listing.cs",
-              "RelativeDocumentMoniker": "Directory.Dto\\Listing.cs",
-              "ToolTip": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Dto\\Listing.cs",
-              "RelativeToolTip": "Directory.Dto\\Listing.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:45:45.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ListingsContext.cs",
-              "DocumentMoniker": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Data\\ListingsContext.cs",
-              "RelativeDocumentMoniker": "Directory.Data\\ListingsContext.cs",
-              "ToolTip": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Data\\ListingsContext.cs",
-              "RelativeToolTip": "Directory.Data\\ListingsContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T20:47:59.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Data\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Directory.Data\\UnitOfWork.cs",
-              "ToolTip": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Data\\UnitOfWork.cs",
-              "RelativeToolTip": "Directory.Data\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T23:53:57.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListingRepository.cs",
-              "DocumentMoniker": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Data\\ListingRepository.cs",
-              "RelativeDocumentMoniker": "Directory.Data\\ListingRepository.cs",
-              "ToolTip": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Data\\ListingRepository.cs",
-              "RelativeToolTip": "Directory.Data\\ListingRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T23:53:07.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Core\\Generics\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Directory.Core\\Generics\\RepositoryBase.cs",
-              "ToolTip": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Core\\Generics\\RepositoryBase.cs",
-              "RelativeToolTip": "Directory.Core\\Generics\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T22:03:59.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Core\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Directory.Core\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Core\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Directory.Core\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T21:44:53.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Core\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "Directory.Core\\Interfaces\\IRepository.cs",
-              "ToolTip": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Core\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "Directory.Core\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T21:44:35.795Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -147,14 +28,14 @@
               "RelativeDocumentMoniker": "Directory.Api\\Program.cs",
               "ToolTip": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Api\\Program.cs",
               "RelativeToolTip": "Directory.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T19:51:34.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Dropbox\\source\\repos\\GitHubDemos\\Directory\\Directory.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Directory.Api\\appsettings.json",
@@ -162,8 +43,7 @@
               "RelativeToolTip": "Directory.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-12T19:51:28.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T19:51:28.713Z"
             }
           ]
         }
